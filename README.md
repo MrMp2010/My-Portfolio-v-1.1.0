@@ -1,8 +1,6 @@
 # My-Portfolio-v-1.1.0
 # TechShop: Modern E-commerce Platform
 
-## Description
-
 TechShop is a responsive and feature-rich e-commerce web application built with React.js. This project serves as a comprehensive portfolio piece showcasing modern web development practices, including dynamic product displays, shopping cart functionality, user authentication flows, and a seamless shopping experience. It's an enhanced iteration of a previous portfolio version, focusing on improved UI/UX and modularity.
 
 ## Key Features
